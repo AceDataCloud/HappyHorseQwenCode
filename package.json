@@ -1,0 +1,16 @@
+{
+  "name": "@acedatacloud/happyhorse-by-ace-data-cloud",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Generate and edit HappyHorse videos through Ace Data Cloud; retrieve the original task.",
+  "keywords": [
+    "happyhorse",
+    "happy horse",
+    "video",
+    "video-editing",
+    "qwen-code",
+    "acedatacloud"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/AceDataCloud/HappyHorseQwenCode"
+}
